@@ -1,4 +1,4 @@
-use std::{env, error::Error, fs};
+use std::{env, error::Error, fs, };
 
 pub struct Config {
     pub query: String,
